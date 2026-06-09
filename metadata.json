@@ -1,0 +1,6 @@
+{
+  "name": "MUSILM TECH",
+  "description": "MUSILM TECH - شركة التقني لكاميرات المراقبة، الأنظمة الذكية، الطاقة الشمسية، والصيانة في كربلاء. Solutions technologiques, caméras de surveillance, systèmes intelligents, énergie solaire et maintenance professionnelle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
